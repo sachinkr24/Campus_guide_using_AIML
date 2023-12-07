@@ -1,14 +1,4 @@
-# Chatbot-using-AIML-for-college-purposes.
-
-What is Chatbot?
-
-Chatbots are programs that mimic human conversation using Artiﬁcial Intelligence (AI).It is an ultimate virtual assistant, helping one to complete tasks.
-It is an interactive interface which provides the conversion between the human and the system.
-
-About AIML: 
-
-AIML stands for Artificial Intelligence Markup Language. AIML was developed by the Alicebot free software community and Dr Richard S. Wallace during 1995–2000. 
-AIML is used to create or customize Alicebot which is a chat-box application based on A.L.I.C.E. (Artificial Linguistic Internet Computer Entity) free software.
+#Campus_guide
 
 About the project:
 
@@ -37,6 +27,11 @@ Installing AIML modules:
         
   For python 3:
         pip install python-aiml
+![chat_output png](https://github.com/sachinkr24/Campus_guide/assets/85781890/d3d93182-149d-4ca8-99c9-5d4c94839a73)
+![chat_op2](https://github.com/sachinkr24/Campus_guide/assets/85781890/7422e1ba-30be-4d2c-b038-371bf3a0d1f1)
+![op3](https://github.com/sachinkr24/Campus_guide/assets/85781890/2d1f8681-db30-468b-9808-c0ec138648b1)
+![op4](https://github.com/sachinkr24/Campus_guide/assets/85781890/c0b8f789-8fb7-42bc-abb6-9ce2d8d4ffb5)
+
                  OR
         pip3 install python-aiml
 
