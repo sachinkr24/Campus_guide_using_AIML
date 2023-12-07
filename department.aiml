@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+<!-- basic_chat.aiml -->
+
+<meta name="language" content="en"/>
+    <category>
+    <pattern>ONE TIME I *</pattern>
+    <template>
+        <random>
+            <li>Go on.</li>
+            <li>How old are you?</li>
+            <li>Be more specific.</li>
+            <li>I did not know that.</li>
+            <li>Are you telling the truth?</li>
+            <li>I don't know what that means.</li>
+            <li>Try to tell me that another way.</li>
+            <li>Are you talking about an animal, vegetable or mineral?</li>
+            <li>What is it?</li>
+        </random>
+    </template>
+</category>
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Well, hello!
+        </template>
+    </category>
+    
+    <category>
+        <pattern>HOW ARE YOU</pattern>
+        <template>
+            I'm a bot, silly!
+        </template>
+    </category>
+
+    <category>
+        <pattern>Group11</pattern>
+        <template>
+            Yes
+        </template>
+    </category>
+
+<!-- Applied Mechanics-->
+    <category>
+        <pattern>APPLIED MECHANICS ENGINEERING COURSES</pattern>
+        <template>
+            Applied Mechanics Engineering course is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/am/appmec	 
+        </template>
+    </category>
+
+    <category>
+        <pattern>APPLIED MECHANICS ENGINEERING FACULTY PROFILE</pattern>
+        <template>
+        Applied Mechanics Engineering faculty profile is here    
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/am/appmecfp
+        </template>
+    </category>
+
+    <category>
+        <pattern>APPLIED MECHANICS ENGINEERING RESEARCHES</pattern>
+        <template>
+            Applied Mechanics Engineering research is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/am/appmecres
+        </template>
+    </category>
+
+    <category>
+        <pattern>APPLIED MECHANICS ENGINEERING PUBLICATIONS</pattern>
+        <template>
+            Applied Mechanics Engineering publication is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/am/appmecpub
+        </template>
+    </category>
+
+      <category>
+        <pattern>APPLIED MECHANICS ENGINEERING LABORATORIES</pattern>
+        <template>
+            Applied Mechanics Engineering laboratory is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/am/appmeclab
+        </template>
+    </category>
+
+<!-- COMPUTER SCIENCE ENGINEERING-->
+   <category>
+        <pattern>COMPUTER SCIENCE ENGINEERING COURSES</pattern>
+        <template>
+           Computer Science Engineering course is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/csed/csedcourses	 
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMPUTER SCIENCE ENGINEERING FACULTY PROFILE</pattern>
+        <template>
+         Computer Science Engineering faculty profile is here    
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/csed/csedfp
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMPUTER SCIENCE ENGINEERING RESEARCHES</pattern>
+        <template>
+             Computer Science Engineering research is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/csed/csedres
+        </template>
+    </category>
+
+    <category>
+        <pattern>COMPUTER SCIENCE ENGINEERING PUBLICATIONS</pattern>
+        <template>
+            Computer Science Engineering publication is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/csed/csedpub
+        </template>
+    </category>
+
+      <category>
+        <pattern>COMPUTER SCIENCE ENGINEERING LABORATORIES</pattern>
+        <template>
+             Computer Science Engineering laboratory is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/csed/csedlab
+        </template>
+    </category>
+
+<!-- Electronics and communication engineering -->
+   <category>
+        <pattern>ELECTRONICS AND COMMUNICATION ENGINEERING COURSES</pattern>
+        <template>
+           Electronics and communication Engineering course is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ece/ececourses	 
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRONICS AND COMMUNICATION ENGINEERING FACULTY PROFILE</pattern>
+        <template>
+        Electronics and communication Engineering faculty profile is here    
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ece/ecefp
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRONICS AND COMMUNICATION ENGINEERING RESEARCHES</pattern>
+        <template>
+             Electronics and communication Engineering research is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ece/eceres
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRONICS AND COMMUNICATION ENGINEERING PUBLICATIONS</pattern>
+        <template>
+           Electronics and communication Engineering publication is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ece/ecepub
+        </template>
+    </category>
+
+      <category>
+        <pattern>ELECTRONICS AND COMMUNICATION ENGINEERING LABORATORIES</pattern>
+        <template>
+             Electronics and communication Engineering laboratory is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ece/ecelab
+        </template>
+    </category>
+
+<!-- Electrical Engineering -->
+    <category>
+        <pattern>ELECTRICAL ENGINEERING COURSES</pattern>
+        <template>
+          Electrical Engineering Engineering course is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ee/eecourses	 
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRICAL ENGINEERING ENGINEERING FACULTY PROFILE</pattern>
+        <template>
+       Electrical Engineering Engineering faculty profile is here    
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ee/eefp
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRICAL ENGINEERING ENGINEERING RESEARCHES</pattern>
+        <template>
+             Electrical Engineering Engineering research is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ee/eeres
+        </template>
+    </category>
+
+    <category>
+        <pattern>ELECTRICAL ENGINEERING ENGINEERING PUBLICATIONS</pattern>
+        <template>
+           Electrical Engineering Engineering publication is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ee/eepub
+        </template>
+    </category>
+
+      <category>
+        <pattern>ELECTRICAL ENGINEERING ENGINEERING LABORATORIES</pattern>
+        <template>
+             Electrical Engineering Engineering laboratory is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/ee/eelab
+        </template>
+    </category>
+
+<!-- Mechanical Engineering-->
+    <category>
+        <pattern>MECHANICAL ENGINEERING COURSES</pattern>
+        <template>
+          Mechanical Engineering Engineering course is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/me/mecourses	 
+        </template>
+    </category>
+
+    <category>
+        <pattern>MECHANICAL ENGINEERING ENGINEERING FACULTY PROFILE</pattern>
+        <template>
+       Mechanical Engineering Engineering faculty profile is here    
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/me/mefp
+        </template>
+    </category>
+
+    <category>
+        <pattern>MECHANICAL ENGINEERING ENGINEERING RESEARCHES</pattern>
+        <template>
+            Mechanical Engineering Engineering research is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/me/meres
+        </template>
+    </category>
+
+    <category>
+        <pattern>MECHANICAL ENGINEERING ENGINEERING PUBLICATIONS</pattern>
+        <template>
+           Mechanical Engineering Engineering publication is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/me/mepub
+        </template>
+    </category>
+
+      <category>
+        <pattern>MECHANICAL ENGINEERING ENGINEERING LABORATORIES</pattern>
+        <template>
+             Mechanical Engineering Engineering laboratory is here
+		Link: http://www.mnnit.ac.in/index.php/department/engineering/me/melab
+        </template>
+    </category>
+    
+</aiml>

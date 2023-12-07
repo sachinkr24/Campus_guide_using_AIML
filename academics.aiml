@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+   
+   <category>
+      <pattern>ACADEMIC PORTAL</pattern>
+      <template> 
+         <system>start "https://academics.mnnit.ac.in/new"</system> 
+    </template>
+    </category>  
+
+     <category>
+      <pattern>ACADEMIC CALENDAR</pattern>
+      <template> 
+         <system>start "https://academics.mnnit.ac.in/new"  and click on academic calendar</system> 
+    </template>
+    </category>      
+
+   <category>
+      <pattern>UNDERGRADUATE PROGRAMMES</pattern>
+    <template> To know Different UG Programmes available follow the link:
+    http://www.mnnit.ac.in/index.php/academic/ug-program
+ 
+</template>
+    </category>      
+
+
+   <category>
+      <pattern>POSTGRADUATE PROGRAMMES</pattern>
+    <template>To know Different PG Programmes available follow the 
+
+    Link: http://www.mnnit.ac.in/index.php/academic/pg-program
+</template>
+    </category>      
+
+
+   <category>
+      <pattern>Doctoral PROGRAMMES</pattern>
+    <template>To know Different Doctoral Programmes available follow the 
+
+    Link: http://www.mnnit.ac.in/images/stories/Information_Brochure_Ph.D.__2014-15_10.4.2014_new.pdf
+</template>
+    </category>      
+  
+
+      <category>
+      <pattern>Ordinances</pattern>
+    <template> 
+		Link: http://www.mnnit.ac.in/index.php/academic/documents
+</template>
+    </category>      
+   <category>
+      <pattern>Accredited Programmes</pattern>
+    <template> To know about the Accredited Programmes
+	         Follow the link
+ 
+		Link: https://www.nbaind.org/
+
+</template>
+    </category>
+   
+      
+<category>
+      <pattern>CENTRAL LIBRARY</pattern>
+    <template> Central Library
+
+Welcome to the Library of MNNIT ALLAHABAD, PRAYAGRAJ
+The Central library is located in the Centre of the Institute, 
+where visitors can approach easily. It is well equipped with the new and modern furniture including optimizers
+ (stacks on tracks). The sitting area of the users is fully air-conditioned. 
+ Each sitting area/ hall is having different reading cubicles for the users. 
+ Library Database has been computerized through LibSys Software and books are issued through RFID System and
+  Smartcard. It has total area of 2455.49 s.q.m. and covered in two floors (Ground and first).
+ The reading halls of Central Library are air conditioned with glass partition Library has separate stack halls
+  for books, periodicals (bound volumes), Reference Section and Book Bank. 
+  
+ To know more please follow the link given below:
+
+Link: http://mnnit.ac.in/index.php/lib-home
+
+</template>
+    </category>  
+
+
+
+
+
+</aiml>
